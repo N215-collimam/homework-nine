@@ -1,0 +1,277 @@
+.content{
+    padding: 50px;
+
+    h1{
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        align-items: center;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    h2{
+        font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        align-items: center;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+
+    .products{
+        width:900px;
+        min-height: 50px;
+        margin: 0 auto;
+        
+        .product{
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+
+            .home-images{
+                
+
+                .home-image1{
+                    height: 200px;
+                    width: 175px;
+                    background-image: url(../images/blue2.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    
+                }
+    
+                .home-image2{
+                    height: 200px;
+                    width: 175px;
+                    background-image: url(../images/wall1.jpeg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                }
+    
+                .home-image3{
+                    height: 200px;
+                    width: 175px;
+                    background-image: url(../images/event1.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    
+                }
+            }
+
+            .about-images{
+                
+
+                h3{
+                    font-size: 35px;
+                    font-style: italic;
+                }
+
+                p{
+                    margin-bottom: 50px;
+                }
+
+                .about-image1{
+                    height: 225px;
+                    width: 475px;
+                    background-image: url(../images/blue2.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    
+                }
+    
+                .about-image2{
+                    height: 225px;
+                    width: 475px;
+                    background-image: url(../images/about1.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                }
+    
+                .about-image3{
+                    height: 225px;
+                    width: 475px;
+                    background-image: url(../images/about3.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    
+                }
+
+                .about-image4{
+                    height: 225px;
+                    width: 475px;
+                    background-image: url(../images/about4.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                }
+            }
+
+            
+                
+            .supplies{
+                
+                display: flex;
+                margin-left: -150px;
+                
+                
+            
+                .supplies-image1{
+                    height: 200px;
+                    width: 250px;
+                    background-image: url(../images/supp1.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    margin-right: 15px;
+                    
+                }
+    
+                .supplies-image2{
+                    height: 200px;
+                    width: 250px;
+                    background-image: url(../images/supp2.jpeg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    margin-right: 15px;
+                }
+    
+                .supplies-image3{
+                    height: 200px;
+                    width: 250px;
+                    background-image: url(../images/supp2.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    margin-right: 15px;
+                }
+
+                .supplies-image4{
+                    height: 200px;
+                    width: 250px;
+                    background-image: url(../images/supp3.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    margin-right: 15px;
+                }
+
+                .supplies-image5{
+                    height: 200px;
+                    width: 250px;
+                    background-image: url(../images/supp5.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    margin-right: 15px;
+                }
+
+            }
+
+            .event-images{
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                
+
+                h3{
+                    font-size: 45px;
+                    text-align: center;
+                }
+
+                p{
+                    margin-bottom: 50px;
+                    text-align: center;
+                }
+
+                .event-image1{
+                    height: 300px;
+                    width: 100%;
+                    background-image: url(../images/event1.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    
+                }
+    
+                .event-image2{
+                    height: 300px;
+                    width: 100%;
+                    background-image: url(../images/event2.jpg);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                }
+    
+                .event-image3{
+                    height: 300px;
+                    width: 100%;
+                    background-image: url(../images/event3.webp);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                    
+                }
+
+                .event-image4{
+                    height: 300px;
+                    width: 100%;
+                    background-image: url(../images/event4.jpg.crdownload);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    margin-bottom: 20px;
+                }
+            }
+
+            .prod-desc{
+                text-align: center;
+                margin-top: 300px;
+                position: absolute;
+                left:0px;
+                
+            }
+
+                
+            
+
+            .home-desc{
+                max-height: 350px; 
+                max-width: 550px;
+                margin-bottom: 100px;
+
+                h2{
+                    font-size: 30px;
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                    margin-bottom: 30px;
+                }
+                
+            }
+            
+        }
+    }
+}
