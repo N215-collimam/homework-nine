@@ -271,7 +271,7 @@ footer {
   margin-bottom: 20px;
   margin-right: 15px;
 }
-.content .products .product .event-images {
+.content .products .product .loc-images {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -280,49 +280,43 @@ footer {
           justify-content: center;
   position: relative;
 }
-.content .products .product .event-images h3 {
-  font-size: 45px;
+.content .products .product .loc-images h3 {
+  font-size: 60px;
   text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #9b1414;
 }
-.content .products .product .event-images p {
+.content .products .product .loc-images p {
   margin-bottom: 50px;
   text-align: center;
+  font-family: "Times New Roman", Times, serif;
 }
-.content .products .product .event-images .event-image1 {
-  height: 300px;
+.content .products .product .loc-images .loc-image1 {
+  height: 455px;
   width: 100%;
-  background-image: url(../images/event1.png);
+  background-image: url(../images/location3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
-.content .products .product .event-images .event-image2 {
-  height: 300px;
+.content .products .product .loc-images .loc-image2 {
+  height: 375px;
   width: 100%;
-  background-image: url(../images/event2.jpg);
+  background-image: url(../images/location1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
-.content .products .product .event-images .event-image3 {
-  height: 300px;
+.content .products .product .loc-images .loc-image3 {
+  height: 375px;
   width: 100%;
-  background-image: url(../images/event3.webp);
+  background-image: url(../images/location2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 20px;
-}
-.content .products .product .event-images .event-image4 {
-  height: 300px;
-  width: 100%;
-  background-image: url(../images/event4.jpg.crdownload);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .content .products .product .prod-desc {
   text-align: center;

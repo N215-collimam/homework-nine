@@ -180,62 +180,55 @@
 
             }
 
-            .event-images{
+            .loc-images{
                 align-items: center;
                 justify-content: center;
                 position: relative;
                 
 
                 h3{
-                    font-size: 45px;
+                    font-size: 60px;
                     text-align: center;
+                    font-family: Georgia, 'Times New Roman', Times, serif;
+                    color: rgb(155, 20, 20);
                 }
 
                 p{
                     margin-bottom: 50px;
                     text-align: center;
+                    font-family:'Times New Roman', Times, serif;
                 }
 
-                .event-image1{
-                    height: 300px;
+                .loc-image1{
+                    height: 455px;
                     width: 100%;
-                    background-image: url(../images/event1.png);
+                    background-image: url(../images/location3.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 30px;
                     
                 }
     
-                .event-image2{
-                    height: 300px;
+                .loc-image2{
+                    height: 375px;
                     width: 100%;
-                    background-image: url(../images/event2.jpg);
+                    background-image: url(../images/location1.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 30px;
                 }
     
-                .event-image3{
-                    height: 300px;
+                .loc-image3{
+                    height: 375px;
                     width: 100%;
-                    background-image: url(../images/event3.webp);
+                    background-image: url(../images/location2.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 30px;
                     
-                }
-
-                .event-image4{
-                    height: 300px;
-                    width: 100%;
-                    background-image: url(../images/event4.jpg.crdownload);
-                    background-position: center;
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    margin-bottom: 20px;
                 }
             }
 
