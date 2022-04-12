@@ -40,7 +40,7 @@
                 
 
                 .home-image1{
-                    height: 400px;
+                    height: 250px;
                     width: 900px;
                     background-image: url(../images/lasagna.png);
                     background-position: center;
@@ -51,7 +51,7 @@
                 }
     
                 .home-image2{
-                    height: 400px;
+                    height: 250px;
                     width: 900px;
                     background-image: url(../images/cater1.jpg);
                     background-position: center;
@@ -61,7 +61,7 @@
                 }
     
                 .home-image3{
-                    height: 400px;
+                    height: 250px;
                     width: 900px;
                     background-image: url(../images/italy.jpeg);
                     background-position: center;
@@ -71,7 +71,7 @@
                 }
             }
 
-            .about-images{
+            .menu-images{
                 position: absolute;
 
                 h3{
@@ -83,7 +83,7 @@
                     margin-bottom: 50px;
                 }
 
-                .about-image1{
+                .menu-image1{
                     height: 330px;
                     width: 535px;
                     background-image: url(../images/spag.jpg);
@@ -96,7 +96,7 @@
                     
                 }
     
-                .about-image2{
+                .menu-image2{
                     height: 330px;
                     width: 535px;
                     background-image: url(../images/alfredo.jpg);
@@ -108,7 +108,7 @@
                     
                 }
     
-                .about-image3{
+                .menu-image3{
                     height: 330px;
                     width: 535px;
                     background-image: url(../images/anti.jpg);
@@ -120,7 +120,7 @@
                     
                 }
 
-                .about-image4{
+                .menu-image4{
                     height: 330px;
                     width: 535px;
                     background-image: url(../images/pizza.jpg);
@@ -135,17 +135,17 @@
 
             
                 
-            .supplies{
+            .cater{
                 
                 display: flex;
-                margin-left: -150px;
+                margin-left: -200px;
                 
                 
             
-                .supplies-image1{
-                    height: 200px;
-                    width: 250px;
-                    background-image: url(../images/supp1.jpg);
+                .cater-image1{
+                    height: 300px;
+                    width: 450px;
+                    background-image: url(../images/cater2.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
@@ -154,43 +154,23 @@
                     
                 }
     
-                .supplies-image2{
-                    height: 200px;
-                    width: 250px;
-                    background-image: url(../images/supp2.jpeg);
+                .cater-image2{
+                    height: 350px;
+                    width: 350px;
+                    background-image: url(../images/cater4.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
                     margin-bottom: 20px;
-                    margin-right: 15px;
+                    margin-right: 55px;
+                    margin-left: 55px;
+                    margin-top: -25px;
                 }
     
-                .supplies-image3{
-                    height: 200px;
-                    width: 250px;
-                    background-image: url(../images/supp2.jpg);
-                    background-position: center;
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    margin-bottom: 20px;
-                    margin-right: 15px;
-                }
-
-                .supplies-image4{
-                    height: 200px;
-                    width: 250px;
-                    background-image: url(../images/supp3.jpg);
-                    background-position: center;
-                    background-repeat: no-repeat;
-                    background-size: cover;
-                    margin-bottom: 20px;
-                    margin-right: 15px;
-                }
-
-                .supplies-image5{
-                    height: 200px;
-                    width: 250px;
-                    background-image: url(../images/supp5.jpg);
+                .cater-image3{
+                    height: 300px;
+                    width: 450px;
+                    background-image: url(../images/cater3.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
@@ -261,9 +241,12 @@
 
             .prod-desc{
                 text-align: center;
-                margin-top: 300px;
+                min-width: 700px;
+                max-width: 1000px;
                 position: absolute;
-                left:0px;
+                margin-top: 400px;
+                
+                
                 
             }
 
@@ -273,7 +256,7 @@
             .home-desc{
                 max-height: 450px; 
                 max-width: 1000px;
-                margin-bottom: 100px;
+                margin-bottom: 70px;
                 justify-content: center;
                 align-items: center;
 
