@@ -28,7 +28,7 @@ var homeContent = `<div class="hero"></div>
 var aboutContent = `<div class="hero"></div>
 
 <div class="content">
-    <h1>ABOUT</h1>
+    <h1>MENU</h1>
     <div class="products">
         <div class="product">
             <div class="about-images">
@@ -53,7 +53,7 @@ var aboutContent = `<div class="hero"></div>
 var productsContent = `<div class="hero"></div>
 
 <div class="content">
-                <h1>SUPPLIES</h1>
+                <h1>CATERING</h1>
                 <div class="products">
                         <div class="product">
                         <div class="supplies">
@@ -80,7 +80,7 @@ var productsContent = `<div class="hero"></div>
 var contactContent = `<div class="hero"></div>
 
 <div class="content">
-                <h1>EVENTS</h1>
+                <h1>LOCATIONS</h1>
                 <div class="products">
                         <div class="product">
                         <div class="event-images">
