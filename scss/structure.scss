@@ -33,15 +33,15 @@ nav a{
 }
 
 #app{
-    min-height: calc(100vh + 300px);
+    min-height: calc(100vh + 2000px);
     width: 100%;
     background-color: rgb(255, 255, 255);
 }
 
 .hero{
-    height: 330px;
+    height: 400px;
     width: 100%;
-    background-image: url(../images/blue1.jpg);
+    background-image: url(../images/hero.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

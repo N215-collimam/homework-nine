@@ -2,18 +2,22 @@
     padding: 50px;
 
     h1{
-        font-size: 50px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 80px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
         align-items: center;
         margin: 0 auto;
         display: flex;
         justify-content: center;
-        margin-bottom: 30px;
+        margin-bottom: 250px;
+        margin-top: -300px;
+        color: rgb(5, 99, 44);
     }
 
     h2{
         font-size: 40px;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
         align-items: center;
         margin: 0 auto;
         display: flex;
@@ -36,30 +40,30 @@
                 
 
                 .home-image1{
-                    height: 200px;
-                    width: 175px;
-                    background-image: url(../images/blue2.jpg);
+                    height: 400px;
+                    width: 900px;
+                    background-image: url(../images/lasagna.png);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 35px;
                     
                 }
     
                 .home-image2{
-                    height: 200px;
-                    width: 175px;
-                    background-image: url(../images/wall1.jpeg);
+                    height: 400px;
+                    width: 900px;
+                    background-image: url(../images/cater1.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 35px;
                 }
     
                 .home-image3{
-                    height: 200px;
-                    width: 175px;
-                    background-image: url(../images/event1.png);
+                    height: 400px;
+                    width: 900px;
+                    background-image: url(../images/italy.jpeg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
@@ -68,10 +72,10 @@
             }
 
             .about-images{
-                
+                position: absolute;
 
                 h3{
-                    font-size: 35px;
+                    font-size: 60px;
                     font-style: italic;
                 }
 
@@ -80,45 +84,52 @@
                 }
 
                 .about-image1{
-                    height: 225px;
-                    width: 475px;
-                    background-image: url(../images/blue2.jpg);
+                    height: 330px;
+                    width: 535px;
+                    background-image: url(../images/spag.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 50px;
+                    margin-left: 550px;
+                    margin-top: -1600px;
                     
                 }
     
                 .about-image2{
-                    height: 225px;
-                    width: 475px;
-                    background-image: url(../images/about1.jpg);
+                    height: 330px;
+                    width: 535px;
+                    background-image: url(../images/alfredo.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 50px;
+                    margin-left: 550px;
+                    
                 }
     
                 .about-image3{
-                    height: 225px;
-                    width: 475px;
-                    background-image: url(../images/about3.jpg);
+                    height: 330px;
+                    width: 535px;
+                    background-image: url(../images/anti.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 50px;
+                    margin-left: 550px;
                     
                 }
 
                 .about-image4{
-                    height: 225px;
-                    width: 475px;
-                    background-image: url(../images/about4.jpg);
+                    height: 330px;
+                    width: 535px;
+                    background-image: url(../images/pizza.jpg);
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size: cover;
-                    margin-bottom: 20px;
+                    margin-bottom: 50px;
+                    margin-left: 550px;
+                    
                 }
             }
 
@@ -260,18 +271,43 @@
             
 
             .home-desc{
-                max-height: 350px; 
-                max-width: 550px;
+                max-height: 450px; 
+                max-width: 1000px;
                 margin-bottom: 100px;
+                justify-content: center;
+                align-items: center;
+
 
                 h2{
                     font-size: 30px;
-                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    font-style: italic;
                     margin-bottom: 30px;
+                }
+
+                p{
+                    font-size: 18px;
+                    margin-bottom: 50px;
+                    font-family:'Times New Roman', Times, serif;
                 }
                 
             }
-            
+
+            .menu-desc{
+                max-height: 350px; 
+                max-width: 500px;
+                margin-bottom: 100px;
+                justify-content: center;
+                align-items: center;
+
+                p{
+                    margin-bottom: 120px;
+                }
+
+                h3{
+                    font-size: 45px;
+                }
+            }
         }
     }
 }

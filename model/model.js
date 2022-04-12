@@ -2,25 +2,32 @@ var homeContent = `<div class="hero"></div>
 
             
 <div class="content">
-    <h1>BLUE DRAGON GAMES</h1>
-    <h2>HOME</h2>
+    <h1>Papa Mario's Italian Cuisine</h1>
     <div class="products">
         <div class="product">
-        <div class="home-images">
-            <div class="home-image1"></div>
-            <div class="home-image2"></div>
-            <div class="home-image3"></div>
-        </div>
+        
             <div class="home-desc">
-                <h2>Our Mission</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque voluptate non at quo. Itaque quia ut totam iure placeat sit, excepturi voluptatibus asperiores voluptatum in ab molestias, temporibus earum corrupti.</p>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore eveniet vitae, fugiat distinctio esse dicta accusamus soluta enim, nisi, beatae at vel quod. Dolorum quod, dignissimos fuga vero, sed tempore aspernatur laudantium illo veniam officiis ad molestiae dolorem! Excepturi in quis consequuntur tempora adipisci nostrum ad sed libero obcaecati maxime.</p>
-                <h2>Shop for supplies and games!</h2>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique tempore est ad, deleniti aspernatur obcaecati dolorum perspiciatis dicta animi quas enim hic dolor dignissimos! Sequi aspernatur iste tempore amet, quaerat dolor ipsam voluptates corporis, facilis eum veniam dignissimos cupiditate pariatur? Fugit, aut veritatis!</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, aliquam. Recusandae et omnis at dolore tempora, architecto perferendis odio obcaecati.</p>
-                <h2>Schedule an event today!</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat cupiditate culpa quidem, nam cum obcaecati sunt iste ratione id eveniet, vitae eligendi voluptate quia in!</p>
+            <div class="home-images">
+            
+                <h2>The Finest Italian Food in the USA!</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et architecto tempora, esse molestias mollitia id iure cumque eligendi nam repudiandae tenetur totam a ea accusamus iste. Ipsum, voluptas voluptatum placeat eum magnam nesciunt? Eligendi ab perspiciatis odio incidunt earum tenetur vitae non tempore ex fuga, repellat omnis quidem, commodi eum laudantium voluptatibus est placeat expedita soluta laborum ipsum? Ex, veniam! Amet minus iure vero laborum distinctio sunt aliquam beatae delectus dolor pariatur sit corporis enim hic error molestias aliquid voluptatum eius eaque porro, debitis provident reprehenderit praesentium tempora eos. Alias delectus repudiandae, eos sit ab voluptatibus. Repudiandae animi est incidunt rerum quos. Nesciunt deserunt atque, alias autem minima corporis tenetur voluptate quidem reprehenderit illum eos incidunt harum recusandae neque sed commodi! Dolorem illo quam earum at assumenda necessitatibus asperiores doloribus recusandae tempore ut inventore quos blanditiis nulla quod, nihil molestias laborum voluptatum. Sunt expedita a, corrupti cupiditate quis dolorem adipisci similique beatae! Nihil quae neque eligendi.</p>
+                
+                <div class="home-image1"></div>
+                
+                <h2>Cater for your next event with us!</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam rerum nam earum commodi nemo sunt mollitia laboriosam, qui ad quas totam harum, et voluptatibus maiores praesentium impedit ipsam minus aperiam reiciendis eligendi veritatis alias nobis corrupti. Provident magni expedita, repudiandae, dignissimos nulla totam unde eum laboriosam quaerat culpa est assumenda iure. Quaerat necessitatibus non natus quos quisquam, molestias ex mollitia animi, vero ratione, minima accusamus! Nesciunt, perferendis hic voluptatibus necessitatibus placeat blanditiis velit illo recusandae inventore voluptate, culpa aspernatur et nulla beatae. Dolorem, rerum nisi eligendi praesentium inventore, nulla cumque, voluptate sunt assumenda laborum voluptatum reprehenderit incidunt modi minima beatae eos numquam quisquam doloribus ab illum dignissimos illo. Vero veritatis quidem quos quam dolorum, nemo ad sit veniam, autem ipsam fuga distinctio, eveniet nihil aliquam? Rerum nam dolores ea tempore veritatis ex commodi! Earum commodi nesciunt ipsa. Nobis, cupiditate! Doloremque dignissimos corrupti adipisci enim, magnam rerum accusantium, commodi nesciunt vitae omnis quia animi minima itaque numquam eos esse quisquam nulla ipsam recusandae. Quae aut consequuntur ex rerum accusantium tempore obcaecati facilis animi odio consequatur numquam facere doloribus molestiae, perferendis ea ab, vel quia, eaque dolores! Sunt eaque laudantium ex ea dignissimos eos sapiente fugiat quae excepturi minima, reprehenderit amet impedit sit, debitis, id optio! Incidunt beatae repellat ipsam maiores assumenda, eveniet unde cumque sint. Iure?</p>
+                <div class="home-image2"></div>
+                
+                <h2>Find a location to dine with us tonight!</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed quod beatae saepe fugiat. Porro cumque saepe accusamus voluptas laudantium iure natus temporibus, iusto omnis eligendi sequi vel similique cupiditate vitae quo quam? Doloribus, minima.</p>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt, perspiciatis. Quisquam accusantium labore soluta expedita, blanditiis assumenda, laborum quas, ex illum dolore sunt! Eos aperiam laborum dignissimos molestias sit quibusdam similique unde optio cum deleniti dolorem laboriosam, iste, nostrum inventore, odit a! Possimus eveniet autem quasi a!</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi architecto officia eaque ipsam ab, iure libero?</p>
+                <div class="home-image3"></div>
             </div>
+            
+            
+            
+        </div>
         </div>
     </div>
 </div>`;
@@ -31,24 +38,32 @@ var aboutContent = `<div class="hero"></div>
     <h1>MENU</h1>
     <div class="products">
         <div class="product">
+
+        <div class="menu-desc">
+        
+                <h3>Homemade Spaghetti</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto officiis, sapiente porro, impedit ullam repellat totam odit quos amet praesentium, vel expedita. Tenetur itaque amet recusandae ipsa accusamus, eos officia perferendis saepe eum at a provident deleniti ad! Voluptates totam excepturi fugit commodi cum, cumque officiis omnis et facere nulla ratione debitis sed officia, in vero natus soluta dicta. Eveniet in corporis sunt harum totam reprehenderit. Suscipit dolore magni iure ab repellat! Neque animi hic, error quaerat et eveniet recusandae cumque explicabo modi numquam eius quod maxime iusto quasi molestias, ipsum iure reiciendis dolorum officia perferendis assumenda! Impedit tenetur nihil, a officia unde consectetur odit saepe modi sapiente, iste deleniti dolorem labore repellendus consequatur debitis nesciunt assumenda ab? Harum minus accusamus facere unde eos quae earum nisi exercitationem corporis eius saepe recusandae illo distinctio nostrum, ipsam rerum numquam facilis quaerat vel. Fuga fugit ex nobis minus. Nostrum ut quae necessitatibus natus harum adipisci sed temporibus, molestiae molestias et iusto perferendis commodi pariatur! Aut, aperiam explicabo. Cupiditate hic explicabo officiis, consequuntur nobis ducimus ipsa. Fugit quod asperiores molestias et optio maxime amet natus.</p>
+                
+                <h3>Creamy Alfredos</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor dignissimos neque necessitatibus voluptate nemo corporis? Dolorum perferendis, illo aperiam excepturi tempore veniam hic molestiae et ducimus veritatis sunt quo temporibus. Soluta ducimus fuga necessitatibus aliquid illum eaque numquam esse eos, nostrum unde. Voluptatum placeat hic, modi magnam sunt tempora totam error saepe eaque quia in eligendi dolorem iure incidunt autem dicta. Animi fugiat quis incidunt culpa natus veritatis praesentium voluptate minima amet! Mollitia, recusandae! Nostrum, debitis provident.</p>
+                
+                <h3>Antipastos</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, fugit odio maiores totam culpa cumque. In nesciunt recusandae illum doloribus, vel tempore eius pariatur magni porro. Laudantium possimus eum facilis autem consequatur atque placeat voluptatum modi, quia, reprehenderit ad a eveniet ducimus, libero magni nobis praesentium dolor quis! Eos quia accusantium quae maiores tempora sed pariatur possimus, repudiandae dignissimos dicta quaerat iste sequi ab repellendus deserunt necessitatibus architecto dolorem quis iure suscipit repellat veniam! Reiciendis ullam similique, dolorum odit quis nulla.</p>
+                
+                <h3>Made-to-Order Pizzas</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias eaque sunt accusantium, mollitia autem quaerat nihil cumque quibusdam placeat. Architecto non reprehenderit in ducimus corrupti autem? Blanditiis odio hic, impedit tempore nisi vero, pariatur laboriosam asperiores sint magni amet sit ipsum velit voluptatibus fugit eligendi nostrum, possimus ad debitis iusto? Fuga debitis ipsum optio officiis in expedita eaque laudantium deserunt cumque laborum amet voluptatibus ratione eius, ducimus, temporibus officia? Recusandae omnis voluptatem exercitationem tenetur dolorum minus obcaecati vitae harum, quas, nisi cum reiciendis facilis porro temporibus dicta placeat veniam numquam nostrum. Accusamus eum expedita maiores unde ex recusandae aperiam ratione laboriosam delectus velit? Blanditiis vero unde tenetur, eaque optio similique velit provident ut, nobis cum repellat labore accusamus nesciunt molestias iusto fugit nostrum quibusdam id quas? Necessitatibus beatae tenetur voluptatem iste pariatur temporibus reprehenderit repudiandae dolore illo, hic, voluptates ipsam.</p>
+            
             <div class="about-images">
                 <div class="about-image1"></div>
-                <h3>Origin of the blue dragon name</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam et magnam architecto quas saepe voluptates maxime aliquid provident ratione beatae! Beatae fuga nostrum harum rerum ex eaque optio praesentium obcaecati pariatur, vitae consequuntur esse veritatis, totam ad? Perspiciatis, unde sapiente. Necessitatibus recusandae repudiandae ipsam cumque aliquam fuga! Hic, velit. Atque ipsum libero consequatur est eos voluptatem saepe, eveniet enim ut quod animi maiores inventore nihil laudantium laboriosam illo sapiente dicta sequi ratione molestias facilis mollitia? Ipsa architecto magni neque itaque dolorem quasi quidem nostrum quod expedita deserunt, cumque voluptatibus fugit. Voluptas excepturi quaerat facilis veniam praesentium necessitatibus dolores sed suscipit magni velit alias, illum magnam sequi temporibus eligendi minima quos, reiciendis pariatur? Assumenda aperiam libero molestias. Ducimus excepturi nisi nihil nulla.</p>
                 <div class="about-image2"></div>
-                <h3>Meet the owners</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor dignissimos neque necessitatibus voluptate nemo corporis? Dolorum perferendis, illo aperiam excepturi tempore veniam hic molestiae et ducimus veritatis sunt quo temporibus. Soluta ducimus fuga necessitatibus aliquid illum eaque numquam esse eos, nostrum unde. Voluptatum placeat hic, modi magnam sunt tempora totam error saepe eaque quia in eligendi dolorem iure incidunt autem dicta. Animi fugiat quis incidunt culpa natus veritatis praesentium voluptate minima amet! Mollitia, recusandae! Nostrum, debitis provident.</p>
                 <div class="about-image3"></div>
-                <h3>Humble beginnings</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quia tempore asperiores natus libero aperiam illo? Eligendi neque nisi harum sed, voluptate quibusdam at nulla architecto cumque aut nihil nobis, non magni vel eum veniam mollitia incidunt id sunt eveniet officiis necessitatibus dicta quisquam? Voluptates mollitia accusantium alias sunt? Sint incidunt optio asperiores sit, dolorem iure rerum reiciendis dolore iusto esse dignissimos sequi temporibus, quis distinctio placeat. Accusantium necessitatibus rem tenetur veritatis temporibus vel atque reprehenderit porro excepturi placeat nisi ab, maiores, sed sunt ducimus a dignissimos autem aliquid corporis quas nostrum, itaque saepe tempore. Eos aperiam qui ipsum placeat autem voluptatum sit quibusdam, voluptates cum, deserunt, minima illo dolore itaque quis harum voluptatibus! Quasi doloribus non, accusamus quidem perferendis reprehenderit mollitia consectetur!</p>
                 <div class="about-image4"></div>
-                <h3>Come visit us!</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum doloremque dolore non? Ipsam quam harum dicta veritatis voluptates, sequi eaque facilis eveniet quia, exercitationem quae cupiditate nihil facere impedit soluta quo quisquam quos minima. Quaerat repellendus sequi at reiciendis a ad amet, nihil voluptatibus exercitationem repellat sapiente magnam nesciunt incidunt suscipit! Quidem, fuga enim in illo aliquam molestiae esse tempora mollitia accusantium, necessitatibus laborum, ad aperiam!</p>
-            </div>
-                        
-                    </div>
-                </div>
-            </div>`;
+            </div> 
+        
+        </div>
+        </div>            
+    </div>
+</div>`;
 
 var productsContent = `<div class="hero"></div>
 
